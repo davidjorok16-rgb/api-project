@@ -1,0 +1,8 @@
+({
+        "user_id": user.get("id"),
+        "name": user.get("name"),
+        "username": user.get("username"),
+        "email": user.get("email"),
+        "city": address.get("city"),
+        "company_name": company.get("name"),
+    })

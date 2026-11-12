@@ -1,0 +1,212 @@
+[
+        {
+                "User_ID": 1,
+                "Name": "Leanne Graham",
+                "Username": "Bret",
+                "Email": "Sincere@april.biz",
+                "City": {
+                        "street": "Kulas Light",
+                        "suite": "Apt. 556",
+                        "city": "Gwenborough",
+                        "zipcode": "92998-3874",
+                        "geo": {
+                                "lat": "-37.3159",
+                                "lng": "81.1496"
+                        }
+                },
+                "Company": {
+                        "name": "Romaguera-Crona",
+                        "catchPhrase": "Multi-layered client-server neural-net",
+                        "bs": "harness real-time e-markets"
+                }
+        },
+        {
+                "User_ID": 2,
+                "Name": "Ervin Howell",
+                "Username": "Antonette",
+                "Email": "Shanna@melissa.tv",
+                "City": {
+                        "street": "Victor Plains",
+                        "suite": "Suite 879",
+                        "city": "Wisokyburgh",
+                        "zipcode": "90566-7771",
+                        "geo": {
+                                "lat": "-43.9509",
+                                "lng": "-34.4618"
+                        }
+                },
+                "Company": {
+                        "name": "Deckow-Crist",
+                        "catchPhrase": "Proactive didactic contingency",
+                        "bs": "synergize scalable supply-chains"
+                }
+        },
+        {
+                "User_ID": 3,
+                "Name": "Clementine Bauch",
+                "Username": "Samantha",
+                "Email": "Nathan@yesenia.net",
+                "City": {
+                        "street": "Douglas Extension",
+                        "suite": "Suite 847",
+                        "city": "McKenziehaven",
+                        "zipcode": "59590-4157",
+                        "geo": {
+                                "lat": "-68.6102",
+                                "lng": "-47.0653"
+                        }
+                },
+                "Company": {
+                        "name": "Romaguera-Jacobson",
+                        "catchPhrase": "Face to face bifurcated interface",
+                        "bs": "e-enable strategic applications"
+                }
+        },
+        {
+                "User_ID": 4,
+                "Name": "Patricia Lebsack",
+                "Username": "Karianne",
+                "Email": "Julianne.OConner@kory.org",
+                "City": {
+                        "street": "Hoeger Mall",
+                        "suite": "Apt. 692",
+                        "city": "South Elvis",
+                        "zipcode": "53919-4257",
+                        "geo": {
+                                "lat": "29.4572",
+                                "lng": "-164.2990"
+                        }
+                },
+                "Company": {
+                        "name": "Robel-Corkery",
+                        "catchPhrase": "Multi-tiered zero tolerance productivity",
+                        "bs": "transition cutting-edge web services"
+                }
+        },
+        {
+                "User_ID": 5,
+                "Name": "Chelsey Dietrich",
+                "Username": "Kamren",
+                "Email": "Lucio_Hettinger@annie.ca",
+                "City": {
+                        "street": "Skiles Walks",
+                        "suite": "Suite 351",
+                        "city": "Roscoeview",
+                        "zipcode": "33263",
+                        "geo": {
+                                "lat": "-31.8129",
+                                "lng": "62.5342"
+                        }
+                },
+                "Company": {
+                        "name": "Keebler LLC",
+                        "catchPhrase": "User-centric fault-tolerant solution",
+                        "bs": "revolutionize end-to-end systems"
+                }
+        },
+        {
+                "User_ID": 6,
+                "Name": "Mrs. Dennis Schulist",
+                "Username": "Leopoldo_Corkery",
+                "Email": "Karley_Dach@jasper.info",
+                "City": {
+                        "street": "Norberto Crossing",
+                        "suite": "Apt. 950",
+                        "city": "South Christy",
+                        "zipcode": "23505-1337",
+                        "geo": {
+                                "lat": "-71.4197",
+                                "lng": "71.7478"
+                        }
+                },
+                "Company": {
+                        "name": "Considine-Lockman",
+                        "catchPhrase": "Synchronised bottom-line interface",
+                        "bs": "e-enable innovative applications"
+                }
+        },
+        {
+                "User_ID": 7,
+                "Name": "Kurtis Weissnat",
+                "Username": "Elwyn.Skiles",
+                "Email": "Telly.Hoeger@billy.biz",
+                "City": {
+                        "street": "Rex Trail",
+                        "suite": "Suite 280",
+                        "city": "Howemouth",
+                        "zipcode": "58804-1099",
+                        "geo": {
+                                "lat": "24.8918",
+                                "lng": "21.8984"
+                        }
+                },
+                "Company": {
+                        "name": "Johns Group",
+                        "catchPhrase": "Configurable multimedia task-force",
+                        "bs": "generate enterprise e-tailers"
+                }
+        },
+        {
+                "User_ID": 8,
+                "Name": "Nicholas Runolfsdottir V",
+                "Username": "Maxime_Nienow",
+                "Email": "Sherwood@rosamond.me",
+                "City": {
+                        "street": "Ellsworth Summit",
+                        "suite": "Suite 729",
+                        "city": "Aliyaview",
+                        "zipcode": "45169",
+                        "geo": {
+                                "lat": "-14.3990",
+                                "lng": "-120.7677"
+                        }
+                },
+                "Company": {
+                        "name": "Abernathy Group",
+                        "catchPhrase": "Implemented secondary concept",
+                        "bs": "e-enable extensible e-tailers"
+                }
+        },
+        {
+                "User_ID": 9,
+                "Name": "Glenna Reichert",
+                "Username": "Delphine",
+                "Email": "Chaim_McDermott@dana.io",
+                "City": {
+                        "street": "Dayna Park",
+                        "suite": "Suite 449",
+                        "city": "Bartholomebury",
+                        "zipcode": "76495-3109",
+                        "geo": {
+                                "lat": "24.6463",
+                                "lng": "-168.8889"
+                        }
+                },
+                "Company": {
+                        "name": "Yost and Sons",
+                        "catchPhrase": "Switchable contextually-based project",
+                        "bs": "aggregate real-time technologies"
+                }
+        },
+        {
+                "User_ID": 10,
+                "Name": "Clementina DuBuque",
+                "Username": "Moriah.Stanton",
+                "Email": "Rey.Padberg@karina.biz",
+                "City": {
+                        "street": "Kattie Turnpike",
+                        "suite": "Suite 198",
+                        "city": "Lebsackbury",
+                        "zipcode": "31428-2261",
+                        "geo": {
+                                "lat": "-38.2386",
+                                "lng": "57.2232"
+                        }
+                },
+                "Company": {
+                        "name": "Hoeger LLC",
+                        "catchPhrase": "Centralized empowering task-force",
+                        "bs": "target end-to-end models"
+                }
+        }
+]
